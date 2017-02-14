@@ -56,13 +56,13 @@ class App extends Component {
             <Flex alignItems="center" mt={2}>
               <Media url="http://www.prixos.nl/autoimg/1887510/500x500/ffffff/beveiligingsmap-hidentity-voor-paspoort.jpg">
                 <Text bold>
-                  U overlegt uw paspoort.
+                  U geeft uw paspoort.
                 </Text>
                 <Text>
                   Idealiter zou het hotel nu aan de hand van uw paspoort handmatig een geschreven of gedigitaliseerd register bijwerken. De medewerker noteert de bovenstaande gegevens en geeft u uw paspoort terug.
                 </Text>
                 <Text mt={1}>
-                  De praktijk is echter dat vaak een (digitale) kopie gemaakt wordt van uw paspoort. Lekker makkelijk misschien voor het hotel en de medewerker, maar er wordt veel meer informatie geregistreerd dan wettelijk nodig. De <a href="https://autoriteitpersoonsgegevens.nl/sites/default/files/downloads/rs/rs_kopie-identiteitsbewijs.pdf">CBP</a> signaleert deze trend als een groeiend probleem. Hoe meer onnodige gegevens over identiteiten verspreid zijn, hoe makkelijker het is om identiteitsfraude te plegen.
+                  De praktijk is echter dat vaak een (digitale) kopie gemaakt wordt van uw paspoort. Makkelijk voor het hotel en de medewerker, maar er wordt veel meer informatie geregistreerd dan wettelijk nodig, zoals bijvoorbeeld het BSN. De <a href="https://autoriteitpersoonsgegevens.nl/sites/default/files/downloads/rs/rs_kopie-identiteitsbewijs.pdf">CBP</a> signaleert deze trend als een groeiend probleem. Hoe meer onnodige gegevens over identiteiten verspreid zijn, hoe makkelijker het is om identiteitsfraude te plegen.
                 </Text>
               </Media>
             </Flex>
@@ -73,7 +73,7 @@ class App extends Component {
                   LifeCocoon geeft een veilig alternatief
                 </Text>
                 <Text>
-                  Op deze pagina zullen we het LifeCocoon algoritme uitleggen. Dit is een veilige en alternatieve manier van identificatie. Deze schets is veel eenvoudiger dan voor werkelijk gebruik nodig, maar zorgt dat u een gemakkelijke manier kennis kunt maken met de wereld van cryptografie.
+                  Op deze pagina zullen we het LifeCocoon algoritme stap voor stap uitleggen. LifeCocoon is een veilige en alternatieve manier van identificatie. N.b. de stappen zijn veel eenvoudiger dan voor werkelijk gebruik nodig is, maar zorgt dat u op een gemakkelijke manier kennis kunt maken met de wereld van cryptografie en blockchain.
                 </Text>
               </Media>
             </Flex>
