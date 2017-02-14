@@ -36,7 +36,7 @@ class App extends Component {
         </Flex>
         <Box flexAuto css={{height: '100%', overflowY: 'scroll'}}>
           <Heading fontSize={1} center>LifeCocoon</Heading>
-          <Heading fontSize={3} center>cryptografie en blockchain in heldere taal uitgelegd</Heading>
+          <Heading fontSize={3} center>cryptografie en blockchain helder uitgelegd</Heading>
 
           <Step heading="Situatieschets">
             <Media url="http://images.wisegeek.com/hotel-front-desk-employee.jpg">
